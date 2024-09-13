@@ -2,7 +2,7 @@
 
 Examen Domingo 15/09/2024 GIT/GITHUB Francisco_Clemente_Fernández
 
-- ¿Qué comando utilizaste en el paso 11? ¿Por qué?
+- ¿Qué comando utilizaste en el paso 11? ¿Por qué?.
  
 $ git reset --hard HEAD~1 
 
